@@ -1,7 +1,7 @@
 One
 
 <div align="center">
-  <img src="./assets/genesis-banner.png" width="100%" alt="Adam, compiled. Renaissance-inspired gold linework shows two hands reaching toward a red apple against a warm dark background." />
+  <img src="./assets/genesis-banner.svg" width="100%" alt="Adam, compiled. Renaissance-inspired gold linework shows two hands reaching toward a red apple against a warm dark background." />
 
   <br />
 
