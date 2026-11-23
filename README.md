@@ -40,7 +40,7 @@ A Scapy-based monitor that follows TCP connection behavior and flags patterns su
 Maintained the event website and built a merchandise storefront, order flows and an admin dashboard. The shop processed roughly **90 orders**, alongside an event serving roughly **1,800 ticket holders**.  
 `PHP` `MariaDB` `Docker` `Web Infrastructure`
 
-**`04 / IN THE WORKSHOP` · Neural networks, from C [Machine Learning](https://github.com/kha-adam/ml-nn)**  
+**`04 / IN THE WORKSHOP` · [Neural networks, from C](https://github.com/kha-adam/ml-nn)**  
 *A study of machine learning by rebuilding its foundations.*  
 An in-progress neural-network framework in C. The goal: understand how the machinery works beneath high-level libraries, one implementation decision at a time.  
 `C` `Linear Algebra` `Machine Learning` **`IN PROGRESS`**
