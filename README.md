@@ -2,7 +2,7 @@
 
 <img src="assets/banner.svg" alt="Adam Khalloufi: I build things from first principles" width="100%">
 
-<sub>Engineering student at INSA Toulouse · cybersecurity · networks · systems · machine learning</sub>
+<sub>Computer Engineering student at INSA Toulouse · cybersecurity · networks · systems · machine learning</sub>
 
 <br><br>
 
@@ -28,7 +28,7 @@ My name sent me looking for apples, and the Renaissance gave me the idea that on
 
 ```
    ╭────────╮                                        ╭────────╮
-   │  ADAM  │  ─ ─ ─ ─ ─ ─ ─  🍎  ─ ─ ─ ─ ─ ─ ─     │  CODE  │
+   │  ADAM  │  ─ ─ ─ ─ ─ ─ ─  🍎  ─ ─ ─ ─ ─ ─ ─      │  CODE  │
    ╰────────╯                                        ╰────────╯
                   the spark lives in the gap
 ```
@@ -94,9 +94,9 @@ My name sent me looking for apples, and the Renaissance gave me the idea that on
 
 ## ❖ Currently on the Easel
 
-- 🔴 Writing a **neural-network framework in C**, from scratch
-- 🔴 Building the **flight software** for a stratospheric balloon
-- 🔴 Preparing my semester at **HKU** (and my Russian)
+-  Writing a **neural-network framework in C**, from scratch
+-  Building the **flight software** for a stratospheric balloon
+-  Preparing my semester at **HKU** (and my Russian)
 
 ## ❖ Languages I Speak
 
