@@ -1,75 +1,131 @@
 <div align="center">
-  <img src="./assets/genesis-banner.svg" width="100%" alt="Adam, compiled. Renaissance-inspired gold linework shows two hands reaching toward a red apple against a warm dark background." />
 
-  <br />
+<img src="assets/banner.svg" alt="Adam Khalloufi: I build things from first principles" width="100%">
 
-  <strong>Software engineering student at INSA Toulouse · Systems, networks &amp; security</strong>
+<sub>Engineering student at INSA Toulouse · cybersecurity · networks · systems · machine learning</sub>
 
-  <sub>I build things from first principles. Preferably the parts you don't see.</sub>
+<br><br>
 
-  <br /><br />
+<img src="https://img.shields.io/badge/INSA_Toulouse-0b0908?style=for-the-badge&labelColor=0b0908&color=d9c9a3" alt="INSA Toulouse">
+<img src="https://img.shields.io/badge/HKU_Exchange-Jan–May_2027-0b0908?style=for-the-badge&labelColor=0b0908&color=c8102e" alt="HKU exchange">
+<img src="https://img.shields.io/badge/Focus-Systems_·_ML_·_Security-0b0908?style=for-the-badge&labelColor=0b0908&color=d9c9a3" alt="Focus">
 
-  <!-- <a href="YOUR_PORTFOLIO_URL">Enter the museum</a> &nbsp;·&nbsp; -->
-  <a href="https://github.com/kha-adam?tab=repositories">Source code</a> &nbsp;·&nbsp;
-  <a href="./assets/Adam_Khalloufi_resume">Résumé</a> &nbsp;·&nbsp;
-  <a href="mailto:adam.officiel.96@gmail.com">Contact</a>
+<br><br>
+
+<!-- TODO: add your links once they exist, for example:
+<a href="https://YOUR-PORTFOLIO-URL"><img src="https://img.shields.io/badge/🏛️_Enter_the_Museum-c8102e?style=for-the-badge" alt="Portfolio"></a>
+-->
+
 </div>
 
----
+<img src="assets/divider.svg" alt="" width="100%">
 
-### The curator's note
+## ❖ The Entrance Hall
 
-I'm **Adam Khalloufi**, studying Computer Engineering at **INSA Toulouse**. I like understanding what happens beneath the abstraction: packets crossing a network, requests finding their way through an API, software meeting the constraints of real machines.
+Hello, I'm **Adam**. I study Computer Science at **INSA Toulouse** (Master of Engineering, class of 2029) and I'm first in my cohort. I like understanding things all the way down: the packet on the wire, the byte in memory, the gradient in the network.
 
-This profile is a small collection of things I've built, broken, understood, and built again.
+My name sent me looking for apples, and the Renaissance gave me the idea that one person can build across disciplines. So this profile is a museum. Take the tour.
 
-### Selected works <sub> / the permanent collection</sub>
+```
+   ╭────────╮                                        ╭────────╮
+   │  ADAM  │  ─ ─ ─ ─ ─ ─ ─  🍎  ─ ─ ─ ─ ─ ─ ─     │  CODE  │
+   ╰────────╯                                        ╰────────╯
+                  the spark lives in the gap
+```
 
-**`01 / SYSTEMS` · [CloudBox](https://github.com/kha-adam/cloudbox)**  
-*File storage, with ownership and reliability designed in.*  
-A FastAPI and PostgreSQL service for authenticated uploads, downloads, listing and deletion. Per-user authorization, SHA-256 checksums, isolated tests, Docker Compose and CI.  
-`Python` `FastAPI` `PostgreSQL` `Docker` `pytest`
+<img src="assets/divider.svg" alt="" width="100%">
 
-**`02 / NETWORKS` · [NetSentinel](https://github.com/kha-adam/netsentinel)**  
-*Listening to the network, not just trusting it.*  
-A Scapy-based monitor that follows TCP connection behavior and flags patterns such as port scanning and SYN floods. Built to understand the protocols, not just display them.  
-`Python` `Scapy` `TCP/IP` `Packet Analysis`
+## ❖ The Wings
 
-**`03 / THE REAL WORLD` · 24H de Toulouse platform**  
-*An event platform where shipping meant people actually using it.*  
-Maintained the event website and built a merchandise storefront, order flows and an admin dashboard. The shop processed roughly **90 orders**, alongside an event serving roughly **1,800 ticket holders**.  
-`PHP` `MariaDB` `Docker` `Web Infrastructure`
+> *Each project is a painting. Each one has a problem, a decision, and a result.*
 
-**`04 / IN THE WORKSHOP` · [Neural networks, from C](https://github.com/kha-adam/ml-nn)**  
-*A study of machine learning by rebuilding its foundations.*  
-An in-progress neural-network framework in C. The goal: understand how the machinery works beneath high-level libraries, one implementation decision at a time.  
-`C` `Linear Algebra` `Machine Learning` **`IN PROGRESS`**
+| Wing | Work | What it is |
+|---|---|---|
+| 🜂 **Machine Learning** | **Neural-network framework in C** *(in progress)* | An ML/NN framework written from scratch in C: tensors, backprop, and memory management, no libraries |
+| 🜄 **Systems & Networks** | **CloudBox** | FastAPI + PostgreSQL REST API for resumable uploads. Dockerized, 70 pytest unit tests, GitHub Actions CI |
+| | **NetSentinel** | A network security monitor |
+| | **Raspberry Cloud** | A self-hosted cloud running on Raspberry Pi hardware |
+| 🜁 **Web** | **24H de Toulouse platform** | E-commerce and ticketing platform for a student event, built as Head Full Stack Developer |
+| 🜃 **Aerospace** | **Astre Club flight software** | Flight software sub-system lead for a stratospheric balloon launch |
 
----
+<!-- TODO: link each project name to its repo, e.g. **[CloudBox](https://github.com/kha-adam/REPO-NAME)** -->
 
-### The workshop <sub> / tools of the trade</sub>
+## ❖ Special Exhibition: Hackathons
 
-**Build** `Python` `C` `FastAPI` `SQL` `Bash`  
-**Operate** `Linux` `Docker` `GitHub Actions` `PostgreSQL`  
-**Investigate** `TCP/IP` `Scapy` `tcpdump`
+*Limited runs. Built under pressure.*
 
-<details>
-<summary><b>Behind the frame: what I care about when I build</b></summary>
-<br />
+| Exhibit | Challenge | Outcome |
+|---|---|---|
+| Hackathon I | <!-- TODO --> | <!-- TODO --> |
+| Hackathon II | <!-- TODO --> | <!-- TODO --> |
 
-- **Understand the mechanism.** Trace the packet, read the error, follow the data.
-- **Make decisions explicit.** Document trade-offs instead of hiding them behind a library.
-- **Prove it works.** Tests, reproducible environments, observable behavior.
-- **Keep learning in public.** Even unfinished work can reveal a useful engineering question.
+<img src="assets/divider.svg" alt="" width="100%">
 
-</details>
-
----
+## ❖ The Workshop
 
 <div align="center">
-  <sub>THE COLLECTION IS NEVER FINISHED.</sub>
-  <br />
-  <!-- <a href="YOUR_PORTFOLIO_URL">Explore the full museum</a> · -->
-  <a href="https://www.linkedin.com/in/khalloufi-adam">LinkedIn</a> ·
-  <a href="mailto:adam.officiel.96@gmail.com">Say hello</a>
+
+<img src="https://img.shields.io/badge/C-0b0908?style=flat-square&logo=c&logoColor=d9c9a3" alt="C">
+<img src="https://img.shields.io/badge/Python-0b0908?style=flat-square&logo=python&logoColor=d9c9a3" alt="Python">
+<img src="https://img.shields.io/badge/FastAPI-0b0908?style=flat-square&logo=fastapi&logoColor=d9c9a3" alt="FastAPI">
+<img src="https://img.shields.io/badge/PostgreSQL-0b0908?style=flat-square&logo=postgresql&logoColor=d9c9a3" alt="PostgreSQL">
+<img src="https://img.shields.io/badge/Docker-0b0908?style=flat-square&logo=docker&logoColor=d9c9a3" alt="Docker">
+<img src="https://img.shields.io/badge/Linux-0b0908?style=flat-square&logo=linux&logoColor=d9c9a3" alt="Linux">
+<img src="https://img.shields.io/badge/GitHub_Actions-0b0908?style=flat-square&logo=githubactions&logoColor=d9c9a3" alt="GitHub Actions">
+<img src="https://img.shields.io/badge/Raspberry_Pi-0b0908?style=flat-square&logo=raspberrypi&logoColor=c8102e" alt="Raspberry Pi">
+
+</div>
+
+## ❖ The Journey
+
+```
+ Jul 2025 ───── Pole Star ·················· Software Engineering Intern
+    │
+ 2025+ ──────── 24H de Toulouse ············ Head Full Stack Developer
+    │
+ 2025+ ──────── International Students Office  Head of Travels division
+    │
+ Oct 2026 ───── Astre Club ················· Flight Software Sub-System Leader
+    │
+ Jan–May 2027 ─ The University of Hong Kong · exchange semester   ◀ next
+```
+
+<!-- TODO: adjust the 24H and International Students Office date ranges -->
+
+## ❖ Currently on the Easel
+
+- 🔴 Writing a **neural-network framework in C**, from scratch
+- 🔴 Building the **flight software** for a stratospheric balloon
+- 🔴 Preparing my semester at **HKU** (and my Russian)
+
+## ❖ Languages I Speak
+
+`Français` · `English` · `العربية` · `Deutsch (B2)` · `Español (B1)` · `Русский (A2)`
+
+<img src="assets/divider.svg" alt="" width="100%">
+
+## ❖ The Orchard
+
+*My contribution graph, eaten by a snake. Regenerated daily by a GitHub Action.*
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/kha-adam/kha-adam/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kha-adam/kha-adam/output/snake-light.svg">
+  <img alt="Contribution graph eaten by a snake" src="https://raw.githubusercontent.com/kha-adam/kha-adam/output/snake-dark.svg" width="100%">
+</picture>
+</div>
+
+<div align="center">
+
+<br>
+
+```
+        ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·
+          Knowledge, compiled.   🍎
+        ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·
+```
+
+<!-- TODO: email · LinkedIn · portfolio URL -->
+
 </div>

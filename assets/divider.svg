@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 28" width="900" height="28" role="presentation" aria-hidden="true">
+  <style>
+    .l{stroke:#d9c9a3;stroke-width:1;stroke-dasharray:400;stroke-dashoffset:400;animation:d 2s ease-out forwards}
+    .a{opacity:0;animation:f 1s ease 1.4s forwards}
+    @keyframes d{to{stroke-dashoffset:0}}
+    @keyframes f{to{opacity:1}}
+  </style>
+  <line class="l" x1="440" y1="14" x2="40"  y2="14"/>
+  <line class="l" x1="460" y1="14" x2="860" y2="14"/>
+  <g class="a">
+    <path d="M450 9 C446 7 443 10 444 14 C445 17 448 18 450 17 C452 18 455 17 456 14 C457 10 454 7 450 9 Z" fill="#c8102e"/>
+  </g>
+</svg>
